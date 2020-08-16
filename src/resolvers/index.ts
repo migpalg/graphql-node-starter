@@ -1,5 +1,5 @@
-import queryResolver from './Query';
+import Query from './Query';
 
 export default {
-  ...queryResolver,
+  Query,
 };
